@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { useParams, useNavigate, useLocation } from 'react-router-dom'
+import { useParams } from 'react-router-dom'
 import Photo from "./Photo"
 import apiKey from '../config'
 
